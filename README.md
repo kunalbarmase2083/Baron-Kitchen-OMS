@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👨‍🍳 Baron Kitchen OMS (Order Management System)
 
 A next-generation, deeply scalable **Kitchen Display system** and **Order Management Hub** built natively for rapid food service execution. It effortlessly converts scrambled, messy text orders into highly structured, real-time ticket arrays synchronized across the cloud instantly.
@@ -42,3 +43,6 @@ uvicorn main:app --reload
 
 ---
 *Built with ❤️ for Baron Kitchen Operations.*
+=======
+# Baron-Kitchen-OMS
+>>>>>>> 082ff438f65fb718f90fdd081dfecce5611ebc26
