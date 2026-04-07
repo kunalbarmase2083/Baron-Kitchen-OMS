@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+
+# Database
+baron_kitchen.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
